@@ -5,7 +5,9 @@ body {
   cursor: pointer;
 }
 body {
+  margin: 200px;
   color: #ffffff;
+  text-align: center;
 }
 .clicked {
   color: #7f8c8d;
